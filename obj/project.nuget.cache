@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "r/rjfzDN83ozOkz9GdYEkA/ztb9kZCNqjHNqOpiFdqQsvXQnW9BSEav4jsgQrQllPyDoWaGl4f+6+ecTZuy9SQ==",
+  "success": true,
+  "projectFilePath": "/Users/krzysztof/Documents/data_science/f_sharp/BS/BS.fsproj",
+  "expectedPackageFiles": [
+    "/Users/krzysztof/.nuget/packages/fsharp.core/6.0.6/fsharp.core.6.0.6.nupkg.sha512",
+    "/Users/krzysztof/.nuget/packages/mathnet.numerics/5.0.0/mathnet.numerics.5.0.0.nupkg.sha512",
+    "/Users/krzysztof/.nuget/packages/mathnet.numerics.fsharp/5.0.0/mathnet.numerics.fsharp.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
